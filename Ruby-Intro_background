@@ -1,0 +1,33 @@
+  Ruby
+
+ Ruby is an object-oriented programming from programming languages, such as Lisp, Perl, and Ada, while placing major emphasis on “trying to make Ruby natural, not just simple.”
+ Interpreted like Perl and Python and object oriented like Java and Ada, Ruby manages to create a perfect balance between performance and simplicity.
+ 
+ History
+ 
+Ruby is a high level programming language from Japan creatied by Yukihiro Matsumoto better known as Matz in 1995.
+Matz created Ruby as an object-oriented programming from programming languages, such as Lisp, Perl, and Ada, while placing major
+emphasis on “trying to make Ruby natural, not just simple.” .
+It was designed for programmer productivity with the idea that software had to be understood y humans first and computers second.
+
+
+Usage
+
+Ruby on Rails forms the mainstay of many popular web application is arguably becoming the hottest technology in web development.
+The most popular Web applications that were created using Ruby are:
+
+1. Twitch
+2. Etsy
+3. Crunchbas
+
+Resources
+
+For my work this semester, my primary resources will be Ruby documentation:https://www.ruby-lang.org/en/documentation/, 
+and other resources in the Ruby website community:http://rubykoans.com/
+I will probably also use StackOverflow.com and Youtube.
+
+Sources
+
+Learn ruby with the edgecase ruby koans. (n.d.). Retrieved from http://rubykoans.com/
+Documentation. (n.d.). Ruby. Retrieved September 20, 2021, from https://www.ruby-lang.org/en/documentation/
+Getting Started with Rails. (n.d.). Ruby on Rails Guides. Retrieved September 20, 2021, from https://guides.rubyonrails.org/getting_started.html
