@@ -1,4 +1,4 @@
-  Ruby
+  ## Ruby
 
  Ruby is an object-oriented programming from programming languages, such as Lisp, Perl, and Ada, while placing major emphasis on “trying to make Ruby natural, not just simple.”
  Interpreted like Perl and Python and object oriented like Java and Ada, Ruby manages to create a perfect balance between performance and simplicity.
@@ -11,7 +11,7 @@ emphasis on “trying to make Ruby natural, not just simple.” .
 It was designed for programmer productivity with the idea that software had to be understood y humans first and computers second.
 
 
-Usage
+ ## Usage
 
 Ruby on Rails forms the mainstay of many popular web application is arguably becoming the hottest technology in web development.
 The most popular Web applications that were created using Ruby are:
@@ -20,13 +20,13 @@ The most popular Web applications that were created using Ruby are:
 2. Etsy
 3. Crunchbas
 
-Resources
+ ## Resources
 
 For my work this semester, my primary resources will be Ruby documentation:https://www.ruby-lang.org/en/documentation/, 
 and other resources in the Ruby website community:http://rubykoans.com/
 I will probably also use StackOverflow.com and Youtube.
 
-Sources
+ ## Sources
 
 Learn ruby with the edgecase ruby koans. (n.d.). Retrieved from http://rubykoans.com/
 Documentation. (n.d.). Ruby. Retrieved September 20, 2021, from https://www.ruby-lang.org/en/documentation/
