@@ -1,0 +1,15 @@
+Variable names in Ruby can be created from alphanumeric characters and the underscore character. A variable cannot begin with a number. This makes it easier for the interpreter to distinguish a literal number from a variable. Variable names cannot begin with a capital letter. If an identifier begins with a capital letter, it is a constant in Ruby.
+Ruby is historically not only a dynamic but also strongly typed language, now have statically typed versions.
+When trying to print this x = “5” + 6, you will get an error like the one below because Ruby doesn’t allow this type of conversion
+'''
+C:/…/Helloworld.rb:2:in `+': no implicit conversion of Integer into String (Type Error)
+	from C:/…/Helloworld.rb:2:in `<main>'
+Ruby has the same built-in data type as any other programming languages.
+'''
+Such as: 
+•	Numbers
+•	Boolean
+•	Strings
+•	Hashes
+•	Arrays
+•	Symbols
